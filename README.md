@@ -12,5 +12,6 @@ The Ola Performance Dashboard provides a comprehensive analysis of ride data, of
 8. Find the average customer rating per vehicle type?<br>
 9. Calculate the total booking value of rides completed successfully?<br>
 10. List all incomplete rides along with the reason?<br>
-## Dataset Used
+## Dataset Used and queries
+<a href = "https://github.com/manyabansal406/Ola-Data-Analytics/blob/main/Bookings.xlsx"></a>
 <a href = "
