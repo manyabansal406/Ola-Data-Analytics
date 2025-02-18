@@ -13,8 +13,8 @@ The Ola Performance Dashboard provides a comprehensive analysis of ride data, of
 9. Calculate the total booking value of rides completed successfully?<br>
 10. List all incomplete rides along with the reason?<br>
 ## Dataset Used and queries
-<a href = "https://github.com/manyabansal406/Ola-Data-Analytics/blob/main/Bookings.xlsx"></a>
-<a href = "https://github.com/manyabansal406/Ola-Data-Analytics/blob/main/Sql%20script.sql"></a>
+<a href = "https://github.com/manyabansal406/Ola-Data-Analytics/blob/main/Bookings.xlsx">Dataset</a>
+<a href = "https://github.com/manyabansal406/Ola-Data-Analytics/blob/main/Sql%20script.sql">SQL Queries</a>
 ## POWER BI QUESTIONS
 1. Ride Volume Over Time
 2. Booking Status Breakdown
@@ -27,4 +27,4 @@ The Ola Performance Dashboard provides a comprehensive analysis of ride data, of
 9. Driver Ratings Distribution
 10. Customer vs. Driver Ratings
 ## DASHBOARD
-<a href = "https://github.com/manyabansal406/Ola-Data-Analytics/blob/main/ola%20data%20analysis.pbix"></a>
+<a href = "https://github.com/manyabansal406/Ola-Data-Analytics/blob/main/ola%20data%20analysis.pbix">Dashboard</a>
